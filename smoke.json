@@ -1,0 +1,20 @@
+{
+  "plugin": "au-gpu-listing-scan",
+  "bundle": "/home/josh/.hermes/lazy-plugin/created/au-gpu-listing-scan",
+  "checked": 1794122566.893361,
+  "tools": [
+    {
+      "tool": "listing_search",
+      "status": "skipped",
+      "detail": "live calls disabled"
+    },
+    {
+      "tool": "listing_ledger",
+      "status": "skipped",
+      "detail": "live calls disabled"
+    }
+  ],
+  "verdict": "unchecked",
+  "notes": [],
+  "seconds": 0.0
+}

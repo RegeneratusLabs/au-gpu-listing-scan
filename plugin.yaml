@@ -1,0 +1,10 @@
+name: au-gpu-listing-scan
+version: 0.1.0
+description: >-
+  Query AU marketplace listings for GPU deals and keep a ledger of deals already reported.
+author: Hermes
+provides_tools:
+  - listing_search
+  - listing_ledger
+provides_hooks:
+  - on_session_end
